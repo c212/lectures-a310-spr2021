@@ -1,4 +1,4 @@
-from lists import *
+from LinkedList import *
 
 class Queue:
   def __init__(self): # constructor
